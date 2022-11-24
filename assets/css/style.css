@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #dd5a92;
+  color: #F4A460;
   text-decoration: none;
 }
 
@@ -56,7 +56,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #db528c;
+  background: #F4A460;
   color: #fff;
 }
 
@@ -1139,7 +1139,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #dd5a92;
+  background: #000000;
 }
 
 @-webkit-keyframes animate-loading {
